@@ -1,6 +1,6 @@
 Name:		texlive-denisbdoc
-Version:	63589
-Release:	2
+Version:	66137
+Release:	1
 Summary:	A personal dirty package for documenting packages
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/denisbdoc
