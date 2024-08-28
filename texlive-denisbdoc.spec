@@ -1,5 +1,5 @@
 Name:		texlive-denisbdoc
-Version:	66137
+Version:	70592
 Release:	1
 Summary:	A personal dirty package for documenting packages
 Group:		Publishing
