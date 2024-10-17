@@ -3,7 +3,7 @@ Version:	70592
 Release:	1
 Summary:	A personal dirty package for documenting packages
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/denisbdoc
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/denisbdoc
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/denisbdoc.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/denisbdoc.doc.r%{version}.tar.xz
